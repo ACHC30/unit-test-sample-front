@@ -88,7 +88,7 @@ function App() {
         onChange={onChangeCloneURL}
         placeholder="Put Your Clone URL Here"
         style={{
-          width: "30vw",
+          width: "30vw", 
         }}
       />
       <br></br>
